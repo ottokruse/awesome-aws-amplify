@@ -199,6 +199,8 @@ Awesome AWS Amplify curates the best AWS Amplify, tools, tutorials, articles and
 - [Multi-Tenant AWS Amplify: Method 1: Cognito Custom Attributes](https://medium.com/@dantasfiles/multi-tenant-aws-amplify-method-1-cognito-custom-attributes-6719d27d84cc)
 - [Multi-Tenant AWS Amplify: Method 2: Cognito Groups](https://medium.com/@dantasfiles/multi-tenant-aws-amplify-method-2-cognito-groups-38b40ace2e9e)
 - [Multi-Tenant AWS Amplify: Method 3: Virtual Cognito Groups](https://medium.com/@dantasfiles/creating-a-simple-multi-tenant-aws-amplify-mobile-app-e26119ab8246)
+- [Implementing passwordless email authentication with Amazon Cognito](https://aws.amazon.com/blogs/mobile/implementing-passwordless-email-authentication-with-amazon-cognito/)
+- [Authorization@Edge using cookies: Protect your Amazon CloudFront content from being downloaded by unauthenticated users](https://aws.amazon.com/blogs/networking-and-content-delivery/authorizationedge-using-cookies-protect-your-amazon-cloudfront-content-from-being-downloaded-by-unauthenticated-users/)
 
 ## Tutorials - Videos
 
